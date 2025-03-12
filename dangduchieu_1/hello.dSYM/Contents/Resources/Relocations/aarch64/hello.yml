@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/dangduchieu/Documents/KTLT_2024.1/hello'
+relocations:     []
+...
